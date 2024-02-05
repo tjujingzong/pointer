@@ -7,10 +7,9 @@ url: "http://random.himself65.com"
 baseurl: "" # Don't change
 
 
-weibo_username:     Himself65
-zhihu_username:     Himself65
-github_username:    Himself65
-twitter_username:   MrSweerBread
+zhihu_username:     liu-jing-zong-32
+github_username:    tjujingzong
+
 
 # Build settings
 markdown: kramdown
