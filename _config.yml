@@ -14,7 +14,7 @@ twitter_username:   MrSweerBread
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-THEME-NAME
 plugins:
   - jekyll-feed
 
